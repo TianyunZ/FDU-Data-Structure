@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507735408 source:c:\users\zty\documents\数据结构\pra3-1\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+
