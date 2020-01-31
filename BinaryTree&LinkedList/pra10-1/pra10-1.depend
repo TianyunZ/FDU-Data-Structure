@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511788512 source:c:\users\zty\documents\数据结构\pra10-1\main.cpp
+	<iostream>
+	<queue>
+
