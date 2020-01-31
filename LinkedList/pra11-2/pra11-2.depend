@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512982121 source:c:\users\zty\documents\数据结构\pra11-2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stack>
+	<iterator>
+	<queue>
+	<queue>
+	<algorithm>
+
