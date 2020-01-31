@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510645571 source:c:\users\zty\documents\数据结构\pra8-1\main.cpp
+	<iostream>
+	<malloc.h>
+	<stack>
+
